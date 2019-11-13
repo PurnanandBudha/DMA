@@ -90,3 +90,6 @@
 ![Screenshot_2019-11-13-20-50-52-11](https://user-images.githubusercontent.com/54013992/68776060-8fa38080-0657-11ea-8f58-3689bf039633.png)
 
 </ol>
+
+# Conclusion:
+<p align="justify">As we can see in above content, project is developed where user can able to add threir daily information. Even they can get notification of that information through alarm. Moreover, application has features of adding text through voice recognization. All the information added on application can be shared with friends, delete them if they are no more useful. We can say that application is prepared which is useful for those people who want to keep their daily information for rememberance.</p>
