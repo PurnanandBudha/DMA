@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">todo_first</string>
+    <string name="button_label_next">Next</string>
+    <string name="button_label_prev">Prev</string>
+    <string name="initial_value">Games</string>
+    <string name="detail_view">To View Detail</string>
+    <string name="button_label_skip">Skip</string>
+    <string name="button_label_detail">View Detail</string>
+    <string name="button_next">next</string>
+    <string name="button_prev">prev</string>
+    <string name="checkbox_detail">CheckBox</string>
+    <string-array name="games">
+        <item>Cricket</item>
+        <item>Table Tennis</item>
+        <item>Volley Ball</item>
+        <item>Football</item>
+        <item>Basket Ball</item>
+    </string-array>
+
+    <string-array name="details">
+        <item>Cricket is a cool game.</item>
+        <item>Table Tennis is supop wala game.</item>
+        <item>Volley Ball is hot game.</item>
+        <item>Football is fantastic game.</item>
+        <item>Basket Ball is jump wala game.</item>
+    </string-array>
+</resources>

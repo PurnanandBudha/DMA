@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Tab Experiment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_1">These are top stories:</string>
+    <string name="tab_2">Tech news you can use:</string>
+    <string name="tab_3">Cooking tips:</string>
+
+    <string name="tab_label1">Top Stories</string>
+    <string name="tab_label2">Tech News</string>
+    <string name="tab_label3">Cooking</string>
+
+
+
+    <string name="first_text">1. World at risk of pandemics that could kill millions, panel warns 2. Belgian researchers find air pollution reaches placenta during pregnancy 3. Mint, menthol e-cigarette liquids high in cancer-causing compound: Study 4. Millions of medical records of patients worldwide freely accessible online, say German authorities 5. Five-year-old boy shoots, kills little brother in US 6. Parents of UN students do not want them in photo op with Melania Trump in New York 7. Dutch men who wanted Area 51 video get jail for trespass 8. Chinese national pleads guilty to running \'birth tourism\' scheme in US 9. Trump says looks like Iran was behind Saudi oil attacks but stresses he doesn\'t want war 10. British PM Johnson booed by protesters, berated by Luxembourg PM who tells him to \'stop speaking and act\\</string>
+    <string name="second_text">
+Tonic app wants to show you to the unexplored, nontoxic corners of the internet again
+Tonic recommends five personalized tidbits from the internet daily, with a radically simple premise that your interests and data belong to you.
+by Joan E. Solsman </string>
+    <string name="third_text">Cooking or cookery is the art, technology, science and craft of preparing food for consumption. Cooking techniques and ingredients vary widely across the world, from grilling food over an open fire to using electric stoves, to baking in various types of ovens, reflecting unique environmental, economic, and cultural traditions and trends. The ways or types of cooking also depend on the skill and type of training an individual cook has. Cooking is done both by people in their own dwellings and by professional cooks and chefs in restaurants and other food establishments. Cooking can also occur through chemical reactions without the presence of heat, such as in ceviche, a traditional South American dish where fish is cooked with the acids in lemon or lime juice. </string>
+</resources>

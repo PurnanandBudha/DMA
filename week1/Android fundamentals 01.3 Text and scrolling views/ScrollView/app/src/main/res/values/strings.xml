@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ScrollView</string>
+    <string name="text_heading_view">Pokhara</string>
+    <string name="text_description_view">Pokhara is in the northwestern corner of the Pokhara Valley,
+        which is a widening of the Seti Gandaki valley that lies in the region (Pahad) of the Himalayas.
+        In this region the mountains rise very quickly,[10] and within 30 kilometres (19 miles),
+        the elevation rises from 1,000 to 7,500 metres (3,300 to 24,600 feet).
+        As a result of this sharp rise in altitude the area of Pokhara has one of the highest precipitation rates
+        in the country (3,350 mm/year or 131 inches/year in the valley to 5600 mm/year or 222 inches/year in Lumle).
+        Even within the city there is a noticeable difference in rainfall between the south and the north:
+        The northern part at the foothills of the mountains experiences a proportionally higher amount of precipitation.
+        The Seti Gandaki is the main river flowing through the city.[12] The Seti Gandaki (White Gandaki) and
+        its tributaries have created several gorges and canyons in and around Pokhara that give intriguingly long sections
+        of terrace features to the city and surrounding areas. These long sections of terraces are interrupted by gorges
+        that are hundreds of metres deep.[13] The Seti gorge runs through Pokhara from north to south and then west to east;
+        at places these gorges are only a few metres wide. In the north and south, the canyons are wider.
+        In the south, the city borders Phewa Tal (4.4 km2) at an elevation of about 827 metres (2,713 feet) above sea level,
+        while Lumle at 1,740 metres (5,710 feet) in the north touches the base of the Annapurna mountain range.
+        Pokhara, the city of lakes, is the second largest city of Nepal after Kathmandu. Three 8,000-metre (26,000-foot) peaks
+        (Dhaulagiri, Annapurna, Manaslu) can be seen from the city. The Machhapuchchhre (Fishtail) with an elevation
+        of 6,993 metres (22,943 feet) is the closest to the city.The porous underground of the Pokhara valley favours the formation
+        of caves and several caves can be found within city limits.
+    </string>
+    <string name="todo">TODO</string>
+</resources>

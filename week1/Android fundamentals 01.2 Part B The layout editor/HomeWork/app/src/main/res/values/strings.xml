@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">todo_first</string>
+    <string name="show_initial_games">0</string>
+    <string name="button_label_toast">Toast</string>
+    <string name="button_label_count">count</string>
+    <string name="toast_message">Count Your Numbers!!</string>
+    <string name="button_label_reset">Reset</string>
+</resources>
